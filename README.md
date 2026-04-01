@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ग्रामपंचायत [गाव नाव]</title>
+<title>ग्रामपंचायत [ आरळे ]</title>
 
 <style>
 body { margin:0; font-family: Arial; }
@@ -19,7 +19,7 @@ footer { background: #006400; color: white; text-align: center; padding: 10px; }
 <body>
 
 <header>
-<h1>श्री ग्रामपंचायत [गाव नाव]</h1>
+<h1> ग्रामपंचायत [ आरळे ]</h1>
 <p>Official Village Portal</p>
 </header>
 
