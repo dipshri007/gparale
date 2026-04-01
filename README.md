@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ग्रामपंचायत [ आरळे ]</title>
+<title>ग्रामपंचायत आरळे</title>
 
 <style>
 body { margin:0; font-family: Arial; }
@@ -19,7 +19,7 @@ footer { background: #006400; color: white; text-align: center; padding: 10px; }
 <body>
 
 <header>
-<h1> ग्रामपंचायत [ आरळे ]</h1>
+<h1> ग्रामपंचायत आरळे </h1>
 <p>Official Village Portal</p>
 </header>
 
@@ -35,7 +35,7 @@ footer { background: #006400; color: white; text-align: center; padding: 10px; }
 <section id="about">
 <h2>📍 गाव माहिती</h2>
 <div class="card">
-<p>[गाव नाव] हे एक प्रगतिशील गाव आहे. येथे शेती, शिक्षण व सामाजिक विकासावर भर दिला जातो.</p>
+<p>आरळे हे एक प्रगतिशील गाव आहे. येथे शेती, शिक्षण व सामाजिक विकासावर भर दिला जातो.</p>
 </div>
 </section>
 
@@ -78,8 +78,8 @@ footer { background: #006400; color: white; text-align: center; padding: 10px; }
 <section id="contact">
 <h2>📞 संपर्क</h2>
 <div class="card">
-<p>फोन: XXXXXXXX</p>
-<p>Email: example@gmail.com</p>
+<p>फोन: 7774848487</p>
+<p>Email: arale0909@gmail.com</p>
 <p>पत्ता: ग्रामपंचायत कार्यालय</p>
 </div>
 </section>
